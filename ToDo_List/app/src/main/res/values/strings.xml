@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="search_hint">Поиск</string>
+    <string name="apply">Применить</string>
+    <string name="clear">Сбросить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="all">Все</string>
+    <string name="done">Выполненные</string>
+    <string name="undone">Невыполненные</string>
+    <string name="default_sort">По умолчанию</string>
+    <string name="earlier_sort">Сначала ранние</string>
+    <string name="later_sort">Сначала поздние</string>
+    <string name="jan">Января</string>
+    <string name="fab">Фeвраля</string>
+    <string name="mar">Марта</string>
+    <string name="apr">Апрeля</string>
+    <string name="may">Мая</string>
+    <string name="jun">Июня</string>
+    <string name="jul">Июля</string>
+    <string name="aug">Августа</string>
+    <string name="sep">Сeнтября</string>
+    <string name="oct">Октября</string>
+    <string name="nov">Ноября</string>
+    <string name="dec">Декабря</string>
+    <string name="header">Заголовок</string>
+    <string name="description">Описание</string>
+</resources>
